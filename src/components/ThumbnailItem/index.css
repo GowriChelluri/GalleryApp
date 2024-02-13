@@ -1,0 +1,11 @@
+/* Write your code here. */
+
+.button {
+  border-width: 0px;
+  margin: 15px;
+  background-size: cover;
+}
+.thumbImg {
+  height: 70px;
+  width: 70px;
+}
